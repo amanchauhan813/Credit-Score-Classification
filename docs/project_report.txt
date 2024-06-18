@@ -1,0 +1,14 @@
+Project Structure Details
+data/: Contains the dataset and a README explaining the dataset.
+notebooks/: Jupyter notebooks for different stages of the project (data preprocessing, exploratory data analysis (EDA), model training, and evaluation).
+scripts/: Python scripts for different stages of the project (for modularity and reusability).
+models/: Serialized models and a README explaining how to load and use them.
+tests/: Unit tests for different scripts.
+config/: Configuration files for the project.
+docs/: Documentation and reports related to the project.
+README.md: Overview of the project.
+requirements.txt: Python dependencies.
+environment.yml: Conda environment configuration.
+setup.py: Setup script for the project.
+.gitignore: To ignore unnecessary files and directories.
+LICENSE: Licensing information for your project.
